@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "angrysciencemod:block/example_block"
+    }
+  }
+}
