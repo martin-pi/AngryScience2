@@ -19,3 +19,5 @@ This Mod is based off of the [Forge default project](https://mcforge.readthedocs
 ## Building & Testing
 
 ## Building for Distribution
+- Update the mod version in src/main/resources/META-INF/mods.toml
+- Update the mod version in build.gradle.
