@@ -1,0 +1,51 @@
+{
+  "variants": {
+    "model=0": {
+      "model": "angrysciencemod:block/counter"
+    },
+    "model=1": {
+      "model": "angrysciencemod:block/counter",
+      "y": 90
+    },
+    "model=2": {
+      "model": "angrysciencemod:block/counter",
+      "y": 180
+    },
+    "model=3": {
+      "model": "angrysciencemod:block/counter",
+      "y": 270
+    },
+    "model=4": {
+      "model": "angrysciencemod:block/counter_inner",
+      "y": 270
+    },
+    "model=5": {
+      "model": "angrysciencemod:block/counter_inner",
+      "y": 0
+    },
+    "model=6": {
+      "model": "angrysciencemod:block/counter_inner",
+      "y": 90
+    },
+    "model=7": {
+      "model": "angrysciencemod:block/counter_inner",
+      "y": 180
+    },
+    "model=8": {
+      "model": "angrysciencemod:block/counter_outer",
+      "y": 90
+    },
+    "model=9": {
+      "model": "angrysciencemod:block/counter_outer",
+      "y": 180
+    },
+    "model=10": {
+      "model": "angrysciencemod:block/counter_outer",
+      "y": 270
+    },
+    "model=11": {
+      "model": "angrysciencemod:block/counter_outer",
+      "y": 0
+    }
+  }
+}

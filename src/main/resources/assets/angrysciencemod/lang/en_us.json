@@ -1,5 +1,7 @@
 {
   "item.angrysciencemod.example_item": "Example Item",
 
-  "block.angrysciencemod.example_block": "Example Block"
+  "block.angrysciencemod.example_block": "Example Block",
+  "block.angrysciencemod.table": "Table",
+  "block.angrysciencemod.counter": "Counter"
 }
