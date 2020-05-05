@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        " a ",
+        " x "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:dirt"
+        },
+        "a":
+        {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:oak_planks",
+        "count": 9
+    }
+}
